@@ -5,22 +5,22 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-    Software engineering is the systematic design, development, testing, and maintenance of software using engineering principles to ensure efficiency, reliability, and           scalability.
+    Software engineering is the systematic design, development, testing, and maintenance of software using engineering principles to ensure efficiency, reliability, and        scalability.
     
-  Importance of Software Engineering in the Technology Industry
-    Quality Development – Ensures robust, error-free, and efficient software.
-    Efficiency & Productivity – Uses structured processes like Agile and DevOps to streamline development.
-    Innovation & Advancement – Drives AI, cloud computing, and IoT innovations.
-    Security & Reliability – Protects against cyber threats and ensures data safety.
-    Scalability – Builds software that grows with user and business needs.
-    Automation & AI – Powers intelligent systems across industries.
-    Economic Growth – Enhances business operations, customer experience, and profitability.
+    Importance of Software Engineering in the Technology Industry
+        Quality Development – Ensures robust, error-free, and efficient software.
+        Efficiency & Productivity – Uses structured processes like Agile and DevOps to streamline development.
+        Innovation & Advancement – Drives AI, cloud computing, and IoT innovations.
+        Security & Reliability – Protects against cyber threats and ensures data safety.
+        Scalability – Builds software that grows with user and business needs.
+        Automation & AI – Powers intelligent systems across industries.
+        Economic Growth – Enhances business operations, customer experience, and profitability.
 
     
 Identify and describe at least three key milestones in the evolution of software engineering.
     Key Milestones in the Evolution of Software Engineering
-      The Birth of Software Engineering (1968)
-          The term "software engineering" was first introduced at the NATO Software Engineering Conference to address the growing "software crisis" caused by unreliable and             inefficient software.
+        The Birth of Software Engineering (1968)
+        The term "software engineering" was first introduced at the NATO Software Engineering Conference to address the growing "software crisis" caused by unreliable and             inefficient software.
         This milestone emphasized the need for structured development processes, leading to the adoption of engineering principles in software development.
     The Rise of Structured Programming (1970s-1980s)
         Structured programming methodologies, such as the Waterfall Model, were introduced to improve software reliability and maintainability.
